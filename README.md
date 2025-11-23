@@ -25,11 +25,11 @@ Venture Wise Agent is an AI agent that recommends fun and travel activities base
 <img width="1551" height="1253" alt="image" src="https://github.com/user-attachments/assets/8f64b566-9c08-4156-a000-3f0de4ade49d" />
 
 - **Example 2:**
-- - Prompt: "I'll be traveling to Rio de Janeiro, Brasil, from December 21th to January 4th."
+- Prompt: "I'll be traveling to Rio de Janeiro, Brasil, from December 21th to January 4th."
 <img width="1549" height="1257" alt="image" src="https://github.com/user-attachments/assets/9effa358-fcbd-4194-9453-540109932152" />
 
 - **Example 3:**
-- - Prompt: "I'll be traveling to Los Angeles, USA, from January 12th to January 16th, 2026."
+- Prompt: "I'll be traveling to Los Angeles, USA, from January 12th to January 16th, 2026."
 <img width="1552" height="1258" alt="image" src="https://github.com/user-attachments/assets/3a5159a0-4811-4039-9ca1-e87c38135cf9" />
 
 - **Example 4: asking about a topic outside the context defined for the agent**
