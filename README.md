@@ -20,8 +20,17 @@ Venture Wise Agent is an AI agent that recommends fun and travel activities base
 
 ## 📸 Screenshots & Flow
 ### Example Responses:
-- **Clear weather during daytime and rain/snow during nighttime response**  
-<img width="1557" height="1261" alt="image" src="https://github.com/user-attachments/assets/a7bdb641-cc11-4259-a1e2-8b7070efe5bf" />
+- **Example 1:**  
+<img width="1551" height="1253" alt="image" src="https://github.com/user-attachments/assets/8f64b566-9c08-4156-a000-3f0de4ade49d" />
+
+- **Example 2:**
+<img width="1549" height="1257" alt="image" src="https://github.com/user-attachments/assets/9effa358-fcbd-4194-9453-540109932152" />
+
+- **Example 3:**
+<img width="1552" height="1258" alt="image" src="https://github.com/user-attachments/assets/3a5159a0-4811-4039-9ca1-e87c38135cf9" />
+
+- **Example 4: asking about a topic outside the context defined for the agent**
+<img width="1551" height="1258" alt="image" src="https://github.com/user-attachments/assets/7e5ad547-6c07-4c1c-8959-b87010b1aa4a" />
 
 
 ## 🚀 Step‑by‑Step Setup
@@ -44,4 +53,4 @@ Venture Wise Agent is an AI agent that recommends fun and travel activities base
 - [Azure Frontier Girls](https://www.maismulheres.tech/courses/azure-frontier-girls)
 
 ## 👩‍💻 Contributors
-Developed by Evelyn Pereira as part of the Azure Frontier Girls AI Challenge.
+Developed by [Evelyn Pereira](https://github.com/evelyn-cp) as part of the Azure Frontier Girls AI Challenge.
